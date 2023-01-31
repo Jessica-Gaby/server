@@ -18,4 +18,22 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false
   }
+  "@ventas/controllers": [
+    "./src/modules/ventas/controllers"
+  ],
+  "@ventas/dto": [
+    "./src/modules/ventas/dto"
+  ],
+  "@ventas/entities": [
+    "./src/modules/ventas/entities"
+  ],
+  "@ventas/providers": [
+    "./src/modules/ventas/providers"
+  ],
+  "@ventas/services": [
+    "./src/modules/ventas/services"
+  ]
+  "@shared/enum":[
+
+  ]
 }

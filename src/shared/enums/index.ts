@@ -1,1 +1,1 @@
-export * from ''
+import * from './repository.enum'
